@@ -1,7 +1,0 @@
-cd chatbot
-git init
-git add chatbot.py streamlit_app.py requirements.txt README.md .gitignore
-git commit -m "first commit: chatbot project"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/chatbot.git
-git push -u origin main
